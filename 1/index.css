@@ -1146,6 +1146,11 @@ body
 {
    visibility: visible;
    display: table;
+   font-size: 13px;
+   font-family: Arial;
+   font-weight: 0;
+   font-style: normal;
+   text-decoration: none;
 }
 #wb_LayoutGrid9
 {
